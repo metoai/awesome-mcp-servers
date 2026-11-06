@@ -2882,6 +2882,8 @@ Connect AI agents to industrial equipment, machinery, and operational technology
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
+- - [metoai/meto](https://github.com/metoai/meto) 📇 ☁️ 🏠 🍎 🪟 🐧 - Universal developer context protocol, multi-IDE rules compiler, and persistent memory across Cursor, Claude Code, Windsurf, and Google Antigravity. [metoctx.com](https://www.metoctx.com)
+    
 Persistent memory storage using knowledge graph structures. Enables AI models to maintain and query structured information across sessions.
 - [eddyflores100-lang/alethech](https://github.com/eddyflores100-lang/alethech) [![eddyflores100-lang/alethech MCP server](https://glama.ai/mcp/servers/eddyflores100-lang/alethech/badges/score.svg)](https://glama.ai/mcp/servers/eddyflores100-lang/alethech) 📇 🏠 🍎 🪟 🐧 - Verifiable Ed25519-signed agent memory chain with fail-closed verification; offline-first TF-IDF recall (zero LLM tokens at runtime), artifact audit, durable snapshots with zero secret leakage, and a measured 42-second disaster-recovery drill.
 
